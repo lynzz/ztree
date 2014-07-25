@@ -1,8 +1,6 @@
 define(function(require, exports, module) {
 
-    var $ = require('$');
-
-    require('./ztree.css');
+    var jQuery = require('$');
 
     /*
      * JQuery zTree core v3.5.15
